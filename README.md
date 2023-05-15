@@ -33,4 +33,5 @@ NewsApp is a React-based web application that allows users to browse and read ne
 - React: A JavaScript library for building user interfaces.
 - HTML: The standard markup language for creating web pages.
 - CSS: The style sheet language used for describing the look and formatting of a document written in HTML.
+- Bootstrap.
 - News API: A third-party API used to fetch news data.
