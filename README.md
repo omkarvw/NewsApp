@@ -1,7 +1,7 @@
-# NewsApp
+# NewsPupper
 
 ## Description
-NewsApp is a React-based web application that allows users to browse and read news articles from various sources. It provides a user-friendly interface where users can explore different categories and view detailed information about each article. The app fetches news data from a third-party API and presents it in an organized and visually appealing manner.
+NewsPupper is a React-based web application that allows users to browse and read news articles from various sources. It provides a user-friendly interface where users can explore different categories and view detailed information about each article. The app fetches news data from a third-party API and presents it in an organized and visually appealing manner.
 
 ## Table of Contents
 - [Installation](#installation)
